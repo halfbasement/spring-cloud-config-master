@@ -3,5 +3,5 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
     username: sa
-    password: '{cipher}61e257e4183a579539c1e702fb584ab66ecf7772fa2e8e4fb572ea0eda8381a2'
+    password: '{cipher}AQCMwJFR1Ro89hiwedSe6grUVT+kR2pMJhMmy6/OPF4su2u6SWvlL2T9c/ZmUSNCr6e+6rxZwkHgQ2Aig+4wvVsh364DRKvK/qw9usc53EOevyAiTOci+qmj+XbNhyYs2gv/PkXTKrO1x4/Xe17Fql7Xl15/flFhqOclkoCx6f0vwIJTdIn2RSLa9YQ0Ek1eo6XB8RNTBqW3QkQNAKKKrGjvOaWecFppXiS/U2blW6is8D3gpnacqSy+l7nbn5Mezif9cWJcJa+tRCeLSDPbE8tAWoI/J2I1SktGFr8s0nD68JC9fXycbQzIequbJpbYIoxrOXzhmP4xjA7L3T+ODQWxdnMCwpz+0mwH7iaw+LTr4JN69+zey0XcjizHZ3jWzb0='
 
