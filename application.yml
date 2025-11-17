@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 
-  secret: very-long
+  secret: '{cipher}AQACxBleT/luu7IVenQIUv2F8/RFlnOC+EXYqiYoRcRUprwBQcDnjDZAD9AeF2DpAixzqNcww5q1mncPrQ7xjzhnC3x6jwmZ4Qn57z3bnZvXv6uoxiWopjH8ugQpDoVEeTmH8ceJujiQGbSuQ9innnU+hC328P9kxazlO5LdvplEC8O5AV21onL+6qboWPnuzu3hPl9Iu9/bqa6WenBP+tOf0J4KTVrdR0ie+/vP53XMrdmTXjI69WJa05qbzAJI54UlY0qRKAxupdZf+8vLCppJGVD+Kvx2ewzZp2fxbKKQFlF/MQymRdSjPAyqhO9WxgM0wr12pTpn6cAAQcUU8JtoMxsOvmJaR6I/8S1Smz2vQd1ByhZFUG1jne7InJS3ZTw='
 
 gateway:
   ip: 172.18.0.1
