@@ -5,3 +5,5 @@ spring:
     username: sa
     password: '{cipher}AQCMwJFR1Ro89hiwedSe6grUVT+kR2pMJhMmy6/OPF4su2u6SWvlL2T9c/ZmUSNCr6e+6rxZwkHgQ2Aig+4wvVsh364DRKvK/qw9usc53EOevyAiTOci+qmj+XbNhyYs2gv/PkXTKrO1x4/Xe17Fql7Xl15/flFhqOclkoCx6f0vwIJTdIn2RSLa9YQ0Ek1eo6XB8RNTBqW3QkQNAKKKrGjvOaWecFppXiS/U2blW6is8D3gpnacqSy+l7nbn5Mezif9cWJcJa+tRCeLSDPbE8tAWoI/J2I1SktGFr8s0nD68JC9fXycbQzIequbJpbYIoxrOXzhmP4xjA7L3T+ODQWxdnMCwpz+0mwH7iaw+LTr4JN69+zey0XcjizHZ3jWzb0='
 
+order-service:
+  url:http://127.0.0.1:8000/order-service/%s/orders
